@@ -101,7 +101,7 @@ def move_files(categorized, base_path, dry_run=False):
 def main():
     """Main function."""
     folder = "./test_folder"
-    dry_run = True  # Set to False to actually move files
+    dry_run = False  # Set to False to actually move files
     
     print("=" * 50)
     print("🗂️  FILE ORGANIZER - Exercise 3")
