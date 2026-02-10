@@ -1,0 +1,31 @@
+2026-02-10 10:18:54,796 - INFO - Scanned folder: C:\Users\jerra\file-organizer\test_folder, found 10 files
+2026-02-10 10:18:54,796 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\archive.zip \u2192 C:\Users\jerra\file-organizer\test_folder\Archives\archive.zip
+2026-02-10 10:18:54,796 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\data.dat \u2192 C:\Users\jerra\file-organizer\test_folder\Other\data.dat
+2026-02-10 10:18:54,796 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\document.pdf \u2192 C:\Users\jerra\file-organizer\test_folder\Documents\document.pdf
+2026-02-10 10:18:54,797 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\notes.txt \u2192 C:\Users\jerra\file-organizer\test_folder\Documents\notes.txt
+2026-02-10 10:18:54,797 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\presentation.pptx \u2192 C:\Users\jerra\file-organizer\test_folder\Documents\presentation.pptx
+2026-02-10 10:18:54,797 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\music.mp3 \u2192 C:\Users\jerra\file-organizer\test_folder\Audio\music.mp3
+2026-02-10 10:18:54,797 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\photo.jpg \u2192 C:\Users\jerra\file-organizer\test_folder\Images\photo.jpg
+2026-02-10 10:18:54,797 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\screenshot.png \u2192 C:\Users\jerra\file-organizer\test_folder\Images\screenshot.png
+2026-02-10 10:18:54,797 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\script.py \u2192 C:\Users\jerra\file-organizer\test_folder\Code\script.py
+2026-02-10 10:18:54,797 - INFO - [DRY RUN] Would move: C:\Users\jerra\file-organizer\test_folder\video.mp4 \u2192 C:\Users\jerra\file-organizer\test_folder\Videos\video.mp4
+2026-02-10 10:18:54,798 - INFO - Report saved: ./reports/report.csv
+2026-02-10 10:19:20,714 - INFO - Scanned folder: C:\Users\jerra\file-organizer\test_folder, found 10 files
+2026-02-10 10:19:20,714 - INFO - Created folder: C:\Users\jerra\file-organizer\test_folder\Archives
+2026-02-10 10:19:20,715 - INFO - Created folder: C:\Users\jerra\file-organizer\test_folder\Other
+2026-02-10 10:19:20,715 - INFO - Created folder: C:\Users\jerra\file-organizer\test_folder\Documents
+2026-02-10 10:19:20,715 - INFO - Created folder: C:\Users\jerra\file-organizer\test_folder\Audio
+2026-02-10 10:19:20,715 - INFO - Created folder: C:\Users\jerra\file-organizer\test_folder\Images
+2026-02-10 10:19:20,715 - INFO - Created folder: C:\Users\jerra\file-organizer\test_folder\Code
+2026-02-10 10:19:20,715 - INFO - Created folder: C:\Users\jerra\file-organizer\test_folder\Videos
+2026-02-10 10:19:20,716 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\archive.zip \u2192 C:\Users\jerra\file-organizer\test_folder\Archives\archive.zip
+2026-02-10 10:19:20,716 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\data.dat \u2192 C:\Users\jerra\file-organizer\test_folder\Other\data.dat
+2026-02-10 10:19:20,716 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\document.pdf \u2192 C:\Users\jerra\file-organizer\test_folder\Documents\document.pdf
+2026-02-10 10:19:20,717 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\notes.txt \u2192 C:\Users\jerra\file-organizer\test_folder\Documents\notes.txt
+2026-02-10 10:19:20,717 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\presentation.pptx \u2192 C:\Users\jerra\file-organizer\test_folder\Documents\presentation.pptx
+2026-02-10 10:19:20,717 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\music.mp3 \u2192 C:\Users\jerra\file-organizer\test_folder\Audio\music.mp3
+2026-02-10 10:19:20,718 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\photo.jpg \u2192 C:\Users\jerra\file-organizer\test_folder\Images\photo.jpg
+2026-02-10 10:19:20,718 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\screenshot.png \u2192 C:\Users\jerra\file-organizer\test_folder\Images\screenshot.png
+2026-02-10 10:19:20,718 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\script.py \u2192 C:\Users\jerra\file-organizer\test_folder\Code\script.py
+2026-02-10 10:19:20,718 - INFO - Moved: C:\Users\jerra\file-organizer\test_folder\video.mp4 \u2192 C:\Users\jerra\file-organizer\test_folder\Videos\video.mp4
+2026-02-10 10:19:20,719 - INFO - Report saved: ./reports/report.csv
